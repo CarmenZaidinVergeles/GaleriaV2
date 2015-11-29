@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Galeria</string>
+    <string name="tituloGuardarCambios">¿Desea guardar los cambios?</string>
+    <string name="positiveButton">Aceptar</string>
+    <string name="negativeButton">Cancelar</string>
+
+
+</resources>
